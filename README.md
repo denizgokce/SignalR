@@ -11,4 +11,4 @@ It has no database dataflow in server are not stored anywhere but it is up to yo
   -SignalR Web Server<br/>
   -SignalR Web Client<br/>
   
-  Note: Because of the project size i had to upload it as rar file. Nice to have .NET Developer.. Enjoy :)
+  Note: Because of the project size i had to upload it as rar file. Nice to have .NET Developers.. Enjoy :)
